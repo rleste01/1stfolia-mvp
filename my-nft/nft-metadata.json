@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "File Type",
+      "value" : "PNG"
+    }, {
+      "trait_type" : "PNG Type",
+      "value" : "Screenshot"
+    } ],
+    "description" : "Screenshot of stuff",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qmbs4MXxAnsyr3NVyJpc5gRTag6D2M8VNz8oLvH84EX51y",
+    "name" : "Wide strings"
+}
